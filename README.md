@@ -22,12 +22,6 @@
 # Objetivo
 Esta API es un ejercicio para el envío de email con Maven que sirve de estudios y referencia.
 
-# Pruebas
-
-![Static Badge](https://img.shields.io/badge/Postman-curl-orange?link=curl%20--location%20--request%20POST%20'http%3A%2F%2Flocalhost%3A8080%2Fsumar%3FnumberA%3D4%26numberB%3D3') 
-curl --location --request POST 'http://localhost:8080/sumar?numberA=4&numberB=3'
-
-
 >[!TIP]
 >
 > Revisar los comentarios dentro del código para ayudarte a entender
